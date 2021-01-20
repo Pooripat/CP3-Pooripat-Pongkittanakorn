@@ -1,0 +1,10 @@
+n1 = int(input("First Number : "))
+n2 = int(input("Second Number : "))
+plus = n1 + n2
+minus = n1 - n2
+times = n1 * n2
+divided = n1 / n2
+print(n1, "+", n2, "=", plus)
+print(n1, "-", n2, "=", minus)
+print(n1, "*", n2, "=", times)
+print(n1, "/", n2, "=", divided)
